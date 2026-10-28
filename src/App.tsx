@@ -86,7 +86,7 @@ export default function Home() {
         <footer className="absolute bottom-0 left-0 w-full flex items-center mt-4 gap-3 p-6 flex-wrap pointer-events-none">
           <div className="flex gap-4 flex-grow pointer-events-none">
             <MusicButton />
-            <Button href="https://github.com/get-convex/ai-town" imgUrl={starImg}>
+            <Button href="https://github.com/convex/ai-town" imgUrl={starImg}>
               Star
             </Button>
             <InteractButton />
